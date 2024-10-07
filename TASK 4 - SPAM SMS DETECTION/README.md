@@ -33,17 +33,6 @@ The dataset used is a CSV file containing SMS messages labeled as either "ham" o
 ### Prerequisites:
 - Python 3.10.12
 
-### Steps:
-1. Clone the repository:
-    ```bash
-    git clone <repository-url>
-    ```
-2. Install the dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the Python script to train the model and evaluate its performance.
-
 ## Dependencies
 
 - **Pandas**: For data manipulation and analysis.
