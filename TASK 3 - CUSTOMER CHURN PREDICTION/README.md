@@ -44,17 +44,6 @@ The dataset used in this project is the **Churn Modelling Dataset** which contai
 ### Prerequisites:
 - Python 3.10.12
 
-### Steps:
-1. Clone this repository:
-    ```bash
-    git clone <repository-url>
-    ```
-2. Install the dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the notebook or script to train the model and visualize the results.
-
 ## Dependencies
 
 Refer to `requirements.txt` for a complete list of required libraries.
